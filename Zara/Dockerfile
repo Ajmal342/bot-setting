@@ -1,10 +1,10 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Raashii/bot-setting /root/WhatsAsenaDuplicated
+RUN git clone https://github.com/Ajmal342/bot-setting /root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 
-RUN git clone https://github.com/Raashii/media
+RUN git clone https://github.com/Ajmal342/media
 
 ENV TZ=Europe/Istanbul
 
