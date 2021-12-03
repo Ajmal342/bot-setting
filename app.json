@@ -1,9 +1,9 @@
 {
     "name": "ZaraMwol",
-    "description": "Zara - re-edited from asena. World’s first UserBot made for WhatsApp, and re-edited by raashii and jokerser",
+    "description": "Zara - re-edited from asena. World’s first UserBot made for WhatsApp, and re-edited by ajmal",
     "logo": "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Raashii/bot-setting",
+    "repository": "https://github.com/Ajmal342/bot-setting",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
@@ -192,12 +192,12 @@
         "OWNER_MESSAGE": {
             "description": "Customizable Owner Message!",
             "required": false,
-            "value": "*Hehey I am ZaraMwol Powered By Raashii 💖*"
+            "value": "*Hehey I am ZaraMwol Powered By Ajmal 💖*"
         },
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by Raashii```"
+            "value": "i am alive  \n\n ```coded by Ajmal```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
