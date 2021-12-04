@@ -21,7 +21,7 @@ module.exports = {
  THERI_BLOCK: process.env.THERI_BLOCK === undefined ? 'false' : process.env.THERI_BLOCK,
  LOGO: process.env.LOGO_LINK === undefined ? 'https://i.ibb.co/9rrnJ7g/20210815-080839.jpg' : process.env.LOGO_LINK,
  PLKAFN: process.env.THERI_LIST_PM === undefined ? false : process.env.THERI_LIST_PM,
- PHONE: process.env.NUMBER === undefined ? '+994 40 360 13 40' : process.env.NUMBER,   
+ PHONE: process.env.NUMBER === undefined ? '+994 40 811 46 72' : process.env.NUMBER,   
     
 
 };
