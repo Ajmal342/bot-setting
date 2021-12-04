@@ -89,7 +89,7 @@
         "OWNER_NAME": {
             "description": "enter ur name, this name will show on some commands",
             "required": false,
-            "value": "Raashii"
+            "value": "Ajmal"
         },   
         "TALKING_ZARA": {
             "description": "turn on chat back auto reply Zara (use 'both' to on and 'false' to off and only for groups use 'group' & only for pm use 'pm')",
