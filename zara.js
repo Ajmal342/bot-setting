@@ -11,7 +11,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
- OB_NAME: process.env.Z_BOT_NAME === undefined ? 'Zara' : process.env.Z_BOT_NAME,
+ OB_NAME: process.env.Z_BOT_NAME === undefined ? 'DUDE' : process.env.Z_BOT_NAME,
  OWN: process.env.OWNER_MESSAGE === undefined ? 'YES IAM THE OWNER' : process.env.OWNER_MESSAGE,
  SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
  SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,
