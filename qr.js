@@ -6,7 +6,7 @@ WhatsAsena - Yusuf Usta
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./pinky/');
+const {StringSession} = require('./zarah/');
 const fs = require('fs');
 
 async function whatsAsena () {
@@ -41,7 +41,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
         }
         else {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
-            await conn.sendMessage(conn.user.jid,'*Do Not Share This Code With Anyone!*', MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*🍃Ajmal annu owner ariyalo bot indakan ariyilenkil code owner snd chey🍃!*', MessageType.text)
             console.log(
                 chalk.blue.bold('If you are installing locale, you can start the bot with node bot.js')
             );
